@@ -1,4 +1,4 @@
-module github.com/cosmic-vagabond/collections
+module github.com/cosmic-vagabond/nibiruchain-collections
 
 go 1.19
 
