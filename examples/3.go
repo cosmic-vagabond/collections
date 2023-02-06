@@ -1,7 +1,7 @@
 package examples
 
 import (
-	"github.com/cosmic-vagabond/collections"
+	collections "github.com/cosmic-vagabond/nibiruchain-collections"
 	"github.com/cosmos/cosmos-sdk/codec"
 	storetypes "github.com/cosmos/cosmos-sdk/store/types"
 	sdk "github.com/cosmos/cosmos-sdk/types"
